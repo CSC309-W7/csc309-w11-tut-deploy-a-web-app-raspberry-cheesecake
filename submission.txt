@@ -1,1 +1,1 @@
-csc309-w11-tut-deploy-a-web-app-raspberry-cheese-production.up.railway.ap
+csc309-w11-tut-deploy-a-web-app-raspberry-cheese-production.up.railway.app
